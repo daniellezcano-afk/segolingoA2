@@ -29,3 +29,4 @@
 .report{margin-top:16px;padding:12px;border:1px solid #e5e7eb;border-radius:12px;background:#fff}
 .report ul{margin:6px 0 0;padding-left:18px}
 .report li{margin:4px 0}
+.inline-options{display:flex;gap:12px;flex-wrap:wrap}
